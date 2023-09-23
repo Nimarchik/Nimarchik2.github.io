@@ -101,7 +101,7 @@ a {
     padding-left: 15px;
     position: fixed;
     inset: 77% 0px 0px 94%;
-    width: 50px;
+    width: 55px;
     height: 40px;
     z-index: 20;
     animation: NavInputrevers 1.5s ease-in-out reverse ;
